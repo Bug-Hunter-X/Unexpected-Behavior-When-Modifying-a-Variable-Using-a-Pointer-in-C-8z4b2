@@ -1,0 +1,3 @@
+# Unexpected Behavior When Modifying a Variable Using a Pointer in C
+This repository demonstrates a common error in C programming: unexpected behavior when modifying a variable's value using a pointer. The provided code snippet compiles without errors but produces an output different from what one might initially expect.
+The `bug.c` file contains the erroneous code, and `bugSolution.c` shows how to correctly handle pointer usage.  The solution explains how to avoid this pitfall and emphasizes good programming practices related to pointer arithmetic and memory management in C.
